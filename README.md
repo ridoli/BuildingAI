@@ -17,10 +17,10 @@ In many cases, detecting cancer or other deseases in aerly stages, increases the
 Therefore, it's vital to detect sympthoms or signals that can alert of the disease.
 
 This can be very useful in many situations such as:
-   *Increasing survival rate
-   *Reducing medical costs, as treatment will be in earlier stages
-   *Improve diagnostics
-   *Speed up diagnostics as it can be done partially without supervision
+   * Increasing survival rate
+   * Reducing medical costs, as treatment will be in earlier stages
+   * Improve diagnostics
+   * Speed up diagnostics as it can be done partially without supervision
 
 ## How is it used?
 
