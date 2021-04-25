@@ -24,18 +24,18 @@ This can be very useful in many situations such as:
 
 ## How is it used?
 
-The tool is deployed to a cloud server, such as AWS or Azure environment. In that way, same data can be easily share across many countries and hospitals, improving the efficiency of the tool.
+The tool is deployed to a cloud server, such as AWS or Azure environment. In that way, same data can be easily shared across many countries and hospitals, improving the efficiency of the tool.
 
-The tool will be consulted by doctors and, based on the inputs (analysis, images and x-rays) it will try to predict if the patient could suffer any of the diseases registered in its database.
+The tool will be consulted by doctors and, based on the inputs (analysis, images and x-rays), it will try to predict if the patient could suffer any of the diseases registered in its database.
 
 ## Data sources and AI methods
 
-The tool will consist on a neuronal network that makes the decisions and a big database that collects data from around the world related t
+The tool will consist on a neuronal network that makes the decisions and a big database that collects data from millions of patients around the world.
 
 ## Challenges
 
 The biggest challenge will be to design a model accurate enoguh to really being able o predicting good results.
-
+ALso, collecting enough data from multiple sources will be a problem, regarding all data protection policies from countries.
 
 ## What next?
 
